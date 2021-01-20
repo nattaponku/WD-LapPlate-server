@@ -39,8 +39,7 @@ module.exports = {
             })
             res.send(req.body)
         } catch (err) {
-            216
-            req.status(500).send({
+            res.status(500).send({
                 error: 'Update pv incorrect'
             })
         }
@@ -61,7 +60,7 @@ module.exports = {
             await pv.destroy()
             res.send(pv)
         } catch (err) {
-            req.status(500).send({
+            res.status(500).send({
                 error: 'The pv information was incorrect'
             })
         }
@@ -81,32 +80,54 @@ module.exports = {
             })
             res.send(pv)
         } catch (err) {
-            req.status(500).send({
+            res.status(500).send({
                 error: 'The pv information was incorrect'
             })
         }
     },
     async showTotalByMonth(req, res) {
         try {
-            if(parseInt(req.params.month) < 10){
-                req.params.month = '0'+req.params.month
-                console.log(req.params.month)
-            }
+            // if(parseInt(req.params.month) < 10){
+            //     req.params.month = '0'+req.params.month
+            //     console.log(req.params.month)
+            // }
             
             const pv = await PV.findAll({
                 //limit: 100,
                 where: {
                     Time: {
-                        [Op.like]: '%-' + req.params.month + '-%'
+                        [Op.like]: req.params.month + '-%'
                     }
                 }
             })
-            const Ppv = getColumn(pv,'Ppv')
-            const sumPpv = Ppv.reduce((a, b) => a + b, 0)
-            res.send(''+sumPpv)
+            const Pac = getColumn(pv,'Pac')
+            const sumPac = Pac.reduce((a, b) => a + b, 0)
+            res.send(''+sumPac)
             
         } catch (err) {
-            req.status(500).send({
+            res.status(500).send({
+                error: 'The pv information was incorrect'
+            })
+        }
+    },
+    async showTotalByYear(req, res) {
+        try {
+            
+            
+            const pv = await PV.findAll({
+                //limit: 100,
+                where: {
+                    Time: {
+                        [Op.like]: req.params.year + '-%'
+                    }
+                }
+            })
+            const Pac = getColumn(pv,'Pac')
+            const sumPac = Pac.reduce((a, b) => a + b, 0)
+            res.send(''+sumPac)
+            
+        } catch (err) {
+            res.status(500).send({
                 error: 'The pv information was incorrect'
             })
         }
@@ -123,13 +144,15 @@ module.exports = {
                     }
                 }
             })
-            console.log(pv)
-            const Ppv = getColumn(pv,'Ppv')
-            const sumPpv = Ppv.reduce((a, b) => a + b, 0)
-            res.send(''+sumPpv)
+            
+            const Pac = getColumn(pv,'Pac')
+            
+            const sumPac = Pac.reduce((a, b) => a + b, 0)
+            console.log(sumPac)
+            res.send(''+sumPac)
             
         } catch (err) {
-            req.status(500).send({
+            res.status(500).send({
                 error: 'The pv information was incorrect'
             })
         }
