@@ -23,26 +23,27 @@ module.exports = {
 
     async login (req, res) {
         try {
-            const {email, password} = req.body
+            const {username, password} = req.body
             const user = await User.findOne({
                 where: {
-                    email: email
+                    username: username
                 }
             })
-
+            
             if(!user) {
                 return res.status(403).send({
-                    error: 'User/User not found'
+                    error: 'User/Password not found'
                 })
             }
-
             const isPasswordValid = await user.comparePassword(password)
+
+            console.log("isPasswordValid = "+isPasswordValid)
             if (!isPasswordValid) {
                 return res.status(403).send({
                     error: 'User/Password not correct'
                 })
             }
-
+            
             const userJSON = user.toJSON()
             
             res.send({

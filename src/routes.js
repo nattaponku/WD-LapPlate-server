@@ -106,6 +106,7 @@ module.exports = (app) => {
     )
     // get pv by date in 'YYYY-M-DD'
     app.get('/pvDate/:date',
+        isAuthenController,
         pvController.showByDate
     )
     // get pv total by date in 'YYYY-M-DD'
@@ -115,6 +116,10 @@ module.exports = (app) => {
     // get pv Total by Month in 'M'
     app.get('/pvTotalMonth/:month',
         pvController.showTotalByMonth
+    )
+    // get pv Total group by SN 
+    app.get('/pvTotalByAllSN',
+        pvController.showTotalByAllSN
     )
     // get pv Total by Year in 'YYYY'
     app.get('/pvTotalYear/:year',

@@ -8,7 +8,7 @@ module.exports = (sequelize, DataTypes) => {
         Ppv1: DataTypes.REAL,
         Vpv2: DataTypes.REAL,
         Ppv2: DataTypes.REAL,
-        Ppv: DataTypes.REAL,
+        Ipv2: DataTypes.REAL,
         Vac: DataTypes.REAL,
         Iac: DataTypes.REAL,
         Fac: DataTypes.REAL,
