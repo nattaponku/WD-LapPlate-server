@@ -1,0 +1,341 @@
+ INFO  Starting development server...
+ DONE  Compiled successfully in 20874ms14:12:35
+
+
+  App running at:
+  - Local:   http://localhost:80/ 
+  - Network: http://10.45.0.89:80/
+
+  Note that the development build is not optimized.
+  To create a production build, run npm run build.
+
+ INFO  Starting development server...
+ ERROR  Failed to compile with 1 errors16:52:23
+
+This relative module was not found:
+
+* ./src/main.js in multi ./src/main.js
+ INFO  Starting development server...
+ ERROR  Failed to compile with 1 errors16:53:15
+
+This relative module was not found:
+
+* ./src/main.js in multi ./src/main.js
+ INFO  Starting development server...
+ ERROR  Failed to compile with 1 errors16:53:45
+
+This relative module was not found:
+
+* ./src/main.js in multi ./src/main.js
+ INFO  Starting development server...
+ ERROR  Failed to compile with 1 errors16:57:12
+
+This relative module was not found:
+
+* ./src/main.js in multi ./src/main.js
+ INFO  Starting development server...
+ ERROR  Failed to compile with 1 errors16:58:37
+
+This relative module was not found:
+
+* ./src/main.js in multi ./src/main.js
+ INFO  Starting development server...
+ ERROR  Failed to compile with 1 errors17:01:08
+
+This relative module was not found:
+
+* ./src/main.js in multi ./src/main.js
+ INFO  Starting development server...
+ ERROR  Failed to compile with 1 errors17:01:49
+
+This relative module was not found:
+
+* ./src/main.js in multi ./src/main.js
+ INFO  Starting development server...
+ ERROR  Failed to compile with 1 errors20:43:35
+
+This relative module was not found:
+
+* ./src/main.js in multi ./src/main.js
+ INFO  Starting development server...
+ ERROR  Failed to compile with 1 errors20:47:31
+
+This relative module was not found:
+
+* ./src/main.js in multi ./src/main.js
+ INFO  Starting development server...
+ ERROR  Failed to compile with 2 errors20:52:48
+
+This relative module was not found:
+
+* ./src/main.js in multi (webpack)-dev-server/client?http://192.168.1.5:8080&sockPath=/sockjs-node (webpack)/hot/dev-server.js ./src/main.js, multi (webpack)/hot/dev-server.js (webpack)-dev-server/client?http://192.168.1.5:8080&sockPath=/sockjs-node ./src/main.js
+ INFO  Starting development server...
+ ERROR  Failed to compile with 2 errors20:58:03
+
+This relative module was not found:
+
+* ./src/main.js in multi (webpack)-dev-server/client?http://192.168.1.5:8080&sockPath=/sockjs-node (webpack)/hot/dev-server.js ./src/main.js, multi (webpack)/hot/dev-server.js (webpack)-dev-server/client?http://192.168.1.5:8080&sockPath=/sockjs-node ./src/main.js
+ INFO  Starting development server...
+ ERROR  Failed to compile with 1 errors21:09:05
+
+This relative module was not found:
+
+* ./src/main.js in multi ./src/main.js
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+
+  Usage: vue-cli-service <command> [options]
+
+  Commands:
+
+    serve     start development server
+    build     build for production
+    inspect   inspect internal webpack config
+    lint      lint and fix source files
+
+  run vue-cli-service help [command] for usage of a specific command.
+
+ INFO  Starting development server...
+ ERROR  Failed to compile with 2 errors22:52:45
+
+This relative module was not found:
+
+* ./src/main.js in multi ../EGAT-Dashboard/node_modules/webpack-dev-server/client?http://192.168.1.5:8080&sockPath=/sockjs-node ../EGAT-Dashboard/node_modules/webpack/hot/dev-server.js ./src/main.js, multi ../EGAT-Dashboard/node_modules/webpack/hot/dev-server.js ../EGAT-Dashboard/node_modules/webpack-dev-server/client?http://192.168.1.5:8080&sockPath=/sockjs-node ./src/main.js

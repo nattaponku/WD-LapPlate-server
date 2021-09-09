@@ -1,0 +1,1008 @@
+2021-09-09T13:45:19: PM2 log: ===============================================================================
+2021-09-09T13:45:19: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T13:45:19: PM2 log: Time                 : Thu Sep 09 2021 13:45:19 GMT+0700 (GMT+07:00)
+2021-09-09T13:45:19: PM2 log: PM2 version          : 5.1.1
+2021-09-09T13:45:19: PM2 log: Node.js version      : 12.18.3
+2021-09-09T13:45:19: PM2 log: Current arch         : x64
+2021-09-09T13:45:19: PM2 log: PM2 home             : C:\Users\Lenovo\.pm2
+2021-09-09T13:45:19: PM2 log: PM2 PID file         : C:\Users\Lenovo\.pm2\pm2.pid
+2021-09-09T13:45:19: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T13:45:19: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T13:45:19: PM2 log: Application log path : C:\Users\Lenovo\.pm2\logs
+2021-09-09T13:45:19: PM2 log: Worker Interval      : 30000
+2021-09-09T13:45:19: PM2 log: Process dump file    : C:\Users\Lenovo\.pm2\dump.pm2
+2021-09-09T13:45:19: PM2 log: Concurrent actions   : 2
+2021-09-09T13:45:19: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T13:45:19: PM2 log: ===============================================================================
+2021-09-09T13:45:19: PM2 log: App [app:0] starting in -fork mode-
+2021-09-09T13:45:19: PM2 log: App [app:0] online
+2021-09-09T13:48:38: PM2 log: Stopping app:app id:0
+2021-09-09T13:48:38: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2021-09-09T13:48:38: PM2 log: pid=11216 msg=process killed
+2021-09-09T13:49:48: PM2 log: App [app:0] starting in -fork mode-
+2021-09-09T13:49:48: PM2 log: App [app:0] online
+2021-09-09T14:12:09: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T14:12:09: PM2 log: App [EGAT-Dashboard:1] starting in -fork mode-
+2021-09-09T14:12:09: PM2 log: App [EGAT-Dashboard:1] online
+2021-09-09T14:15:02: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T14:15:02: PM2 log: Stopping app:EGAT-Dashboard id:1
+2021-09-09T14:15:02: PM2 log: App [EGAT-Dashboard:1] exited with code [1] via signal [SIGINT]
+2021-09-09T14:15:02: PM2 log: pid=13412 msg=process killed
+2021-09-09T14:42:58: PM2 log: Stopping app:app id:0
+2021-09-09T14:42:58: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2021-09-09T14:42:58: PM2 log: pid=7584 msg=process killed
+2021-09-09T16:50:20: PM2 log: ===============================================================================
+2021-09-09T16:50:20: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T16:50:20: PM2 log: Time                 : Thu Sep 09 2021 16:50:20 GMT+0700 (GMT+07:00)
+2021-09-09T16:50:20: PM2 log: PM2 version          : 5.1.1
+2021-09-09T16:50:20: PM2 log: Node.js version      : 12.18.3
+2021-09-09T16:50:20: PM2 log: Current arch         : x64
+2021-09-09T16:50:20: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T16:50:20: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T16:50:20: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T16:50:20: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T16:50:20: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T16:50:20: PM2 log: Worker Interval      : 30000
+2021-09-09T16:50:20: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T16:50:20: PM2 log: Concurrent actions   : 2
+2021-09-09T16:50:20: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T16:50:20: PM2 log: ===============================================================================
+2021-09-09T16:52:16: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T16:52:16: PM2 log: App [EGAT-Dashboard:0] starting in -fork mode-
+2021-09-09T16:52:16: PM2 log: App [EGAT-Dashboard:0] online
+2021-09-09T16:53:06: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T16:53:06: PM2 log: Stopping app:EGAT-Dashboard id:0
+2021-09-09T16:53:07: PM2 log: App [EGAT-Dashboard:0] exited with code [1] via signal [SIGINT]
+2021-09-09T16:53:07: PM2 log: pid=16640 msg=process killed
+2021-09-09T16:53:09: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T16:53:09: PM2 log: App [EGAT-Dashboard:0] starting in -fork mode-
+2021-09-09T16:53:09: PM2 log: App [EGAT-Dashboard:0] online
+2021-09-09T16:53:35: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T16:53:35: PM2 log: Stopping app:EGAT-Dashboard id:0
+2021-09-09T16:53:35: PM2 log: App [EGAT-Dashboard:0] exited with code [1] via signal [SIGINT]
+2021-09-09T16:53:35: PM2 log: pid=7456 msg=process killed
+2021-09-09T16:53:38: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T16:53:38: PM2 log: App [EGAT-Dashboard:0] starting in -fork mode-
+2021-09-09T16:53:38: PM2 log: App [EGAT-Dashboard:0] online
+2021-09-09T16:57:02: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T16:57:02: PM2 log: Stopping app:EGAT-Dashboard id:0
+2021-09-09T16:57:03: PM2 log: App [EGAT-Dashboard:0] exited with code [1] via signal [SIGINT]
+2021-09-09T16:57:03: PM2 log: pid=14052 msg=process killed
+2021-09-09T16:57:06: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T16:57:06: PM2 log: App [EGAT-Dashboard:0] starting in -fork mode-
+2021-09-09T16:57:06: PM2 log: App [EGAT-Dashboard:0] online
+2021-09-09T16:58:28: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T16:58:28: PM2 log: Stopping app:EGAT-Dashboard id:0
+2021-09-09T16:58:28: PM2 log: App [EGAT-Dashboard:0] exited with code [1] via signal [SIGINT]
+2021-09-09T16:58:28: PM2 log: pid=9732 msg=process killed
+2021-09-09T16:58:31: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T16:58:31: PM2 log: App [EGAT-Dashboard:0] starting in -fork mode-
+2021-09-09T16:58:31: PM2 log: App [EGAT-Dashboard:0] online
+2021-09-09T17:00:55: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T17:00:55: PM2 log: Stopping app:EGAT-Dashboard id:0
+2021-09-09T17:00:55: PM2 log: App [EGAT-Dashboard:0] exited with code [1] via signal [SIGINT]
+2021-09-09T17:00:56: PM2 log: pid=13396 msg=process killed
+2021-09-09T17:00:56: PM2 log: PM2 successfully stopped
+2021-09-09T17:01:01: PM2 log: ===============================================================================
+2021-09-09T17:01:01: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T17:01:01: PM2 log: Time                 : Thu Sep 09 2021 17:01:01 GMT+0700 (GMT+07:00)
+2021-09-09T17:01:01: PM2 log: PM2 version          : 5.1.1
+2021-09-09T17:01:01: PM2 log: Node.js version      : 12.18.3
+2021-09-09T17:01:01: PM2 log: Current arch         : x64
+2021-09-09T17:01:01: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T17:01:01: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T17:01:01: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T17:01:01: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T17:01:01: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T17:01:01: PM2 log: Worker Interval      : 30000
+2021-09-09T17:01:01: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T17:01:01: PM2 log: Concurrent actions   : 2
+2021-09-09T17:01:01: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T17:01:01: PM2 log: ===============================================================================
+2021-09-09T17:01:01: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T17:01:01: PM2 log: App [EGAT-Dashboard:0] starting in -fork mode-
+2021-09-09T17:01:01: PM2 log: App [EGAT-Dashboard:0] online
+2021-09-09T17:01:36: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T17:01:36: PM2 log: Stopping app:EGAT-Dashboard id:0
+2021-09-09T17:01:37: PM2 log: App [EGAT-Dashboard:0] exited with code [1] via signal [SIGINT]
+2021-09-09T17:01:37: PM2 log: pid=17232 msg=process killed
+2021-09-09T17:01:37: PM2 log: PM2 successfully stopped
+2021-09-09T17:01:43: PM2 log: ===============================================================================
+2021-09-09T17:01:43: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T17:01:43: PM2 log: Time                 : Thu Sep 09 2021 17:01:43 GMT+0700 (GMT+07:00)
+2021-09-09T17:01:43: PM2 log: PM2 version          : 5.1.1
+2021-09-09T17:01:43: PM2 log: Node.js version      : 12.18.3
+2021-09-09T17:01:43: PM2 log: Current arch         : x64
+2021-09-09T17:01:43: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T17:01:43: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T17:01:43: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T17:01:43: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T17:01:43: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T17:01:43: PM2 log: Worker Interval      : 30000
+2021-09-09T17:01:43: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T17:01:43: PM2 log: Concurrent actions   : 2
+2021-09-09T17:01:43: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T17:01:43: PM2 log: ===============================================================================
+2021-09-09T17:01:43: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T17:01:43: PM2 log: App [EGAT-Dashboard:0] starting in -fork mode-
+2021-09-09T17:01:43: PM2 log: App [EGAT-Dashboard:0] online
+2021-09-09T17:25:07: PM2 log: ===============================================================================
+2021-09-09T17:25:07: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T17:25:07: PM2 log: Time                 : Thu Sep 09 2021 17:25:07 GMT+0700 (GMT+07:00)
+2021-09-09T17:25:07: PM2 log: PM2 version          : 5.1.1
+2021-09-09T17:25:07: PM2 log: Node.js version      : 12.18.3
+2021-09-09T17:25:07: PM2 log: Current arch         : x64
+2021-09-09T17:25:07: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T17:25:07: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T17:25:07: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T17:25:07: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T17:25:07: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T17:25:07: PM2 log: Worker Interval      : 30000
+2021-09-09T17:25:07: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T17:25:07: PM2 log: Concurrent actions   : 2
+2021-09-09T17:25:07: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T17:25:07: PM2 log: ===============================================================================
+2021-09-09T17:26:02: PM2 log: App [app:0] starting in -fork mode-
+2021-09-09T17:26:02: PM2 log: App [app:0] online
+2021-09-09T20:27:54: PM2 log: ===============================================================================
+2021-09-09T20:27:54: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T20:27:54: PM2 log: Time                 : Thu Sep 09 2021 20:27:54 GMT+0700 (GMT+07:00)
+2021-09-09T20:27:54: PM2 log: PM2 version          : 5.1.1
+2021-09-09T20:27:54: PM2 log: Node.js version      : 12.18.3
+2021-09-09T20:27:54: PM2 log: Current arch         : x64
+2021-09-09T20:27:54: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T20:27:54: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T20:27:54: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T20:27:54: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T20:27:54: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T20:27:54: PM2 log: Worker Interval      : 30000
+2021-09-09T20:27:54: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T20:27:54: PM2 log: Concurrent actions   : 2
+2021-09-09T20:27:54: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T20:27:54: PM2 log: ===============================================================================
+2021-09-09T20:43:27: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T20:43:27: PM2 log: App [EGAT-Dashboard:0] starting in -fork mode-
+2021-09-09T20:43:27: PM2 log: App [EGAT-Dashboard:0] online
+2021-09-09T20:47:03: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T20:47:03: PM2 log: Stopping app:EGAT-Dashboard id:0
+2021-09-09T20:47:04: PM2 log: App [EGAT-Dashboard:0] exited with code [1] via signal [SIGINT]
+2021-09-09T20:47:04: PM2 log: pid=6156 msg=process killed
+2021-09-09T20:47:04: PM2 log: PM2 successfully stopped
+2021-09-09T20:47:10: PM2 log: ===============================================================================
+2021-09-09T20:47:10: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T20:47:10: PM2 log: Time                 : Thu Sep 09 2021 20:47:10 GMT+0700 (GMT+07:00)
+2021-09-09T20:47:10: PM2 log: PM2 version          : 5.1.1
+2021-09-09T20:47:10: PM2 log: Node.js version      : 12.18.3
+2021-09-09T20:47:10: PM2 log: Current arch         : x64
+2021-09-09T20:47:10: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T20:47:10: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T20:47:10: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T20:47:10: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T20:47:10: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T20:47:10: PM2 log: Worker Interval      : 30000
+2021-09-09T20:47:10: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T20:47:10: PM2 log: Concurrent actions   : 2
+2021-09-09T20:47:10: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T20:47:10: PM2 log: ===============================================================================
+2021-09-09T20:47:25: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T20:47:25: PM2 log: App [EGAT-Dashboard:0] starting in -fork mode-
+2021-09-09T20:47:25: PM2 log: App [EGAT-Dashboard:0] online
+2021-09-09T20:49:12: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T20:49:12: PM2 log: App [app:1] online
+2021-09-09T20:51:47: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T20:51:47: PM2 log: Stopping app:EGAT-Dashboard id:0
+2021-09-09T20:51:47: PM2 log: Stopping app:app id:1
+2021-09-09T20:51:47: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T20:51:47: PM2 log: App [EGAT-Dashboard:0] exited with code [1] via signal [SIGINT]
+2021-09-09T20:51:47: PM2 log: pid=12428 msg=process killed
+2021-09-09T20:51:47: PM2 log: pid=3760 msg=process killed
+2021-09-09T20:51:48: PM2 log: PM2 successfully stopped
+2021-09-09T20:51:57: PM2 log: ===============================================================================
+2021-09-09T20:51:57: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T20:51:57: PM2 log: Time                 : Thu Sep 09 2021 20:51:57 GMT+0700 (GMT+07:00)
+2021-09-09T20:51:57: PM2 log: PM2 version          : 5.1.1
+2021-09-09T20:51:57: PM2 log: Node.js version      : 12.18.3
+2021-09-09T20:51:57: PM2 log: Current arch         : x64
+2021-09-09T20:51:57: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T20:51:57: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T20:51:57: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T20:51:57: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T20:51:57: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T20:51:57: PM2 log: Worker Interval      : 30000
+2021-09-09T20:51:57: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T20:51:57: PM2 log: Concurrent actions   : 2
+2021-09-09T20:51:57: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T20:51:57: PM2 log: ===============================================================================
+2021-09-09T20:52:41: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T20:52:41: PM2 log: App [EGAT-Server:0] online
+2021-09-09T20:52:41: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T20:52:41: PM2 log: App [EGAT-Dashboard:1] starting in -fork mode-
+2021-09-09T20:52:41: PM2 log: App [EGAT-Dashboard:1] online
+2021-09-09T20:54:18: PM2 log: Stopping app:EGAT-Server id:0
+2021-09-09T20:54:18: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T20:54:18: PM2 log: Stopping app:EGAT-Dashboard id:1
+2021-09-09T20:54:18: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T20:54:18: PM2 log: App [EGAT-Dashboard:1] exited with code [1] via signal [SIGINT]
+2021-09-09T20:54:18: PM2 log: pid=10652 msg=process killed
+2021-09-09T20:54:18: PM2 log: pid=17152 msg=process killed
+2021-09-09T20:54:18: PM2 log: PM2 successfully stopped
+2021-09-09T20:57:43: PM2 log: ===============================================================================
+2021-09-09T20:57:43: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T20:57:43: PM2 log: Time                 : Thu Sep 09 2021 20:57:43 GMT+0700 (GMT+07:00)
+2021-09-09T20:57:43: PM2 log: PM2 version          : 5.1.1
+2021-09-09T20:57:43: PM2 log: Node.js version      : 12.18.3
+2021-09-09T20:57:43: PM2 log: Current arch         : x64
+2021-09-09T20:57:43: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T20:57:43: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T20:57:43: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T20:57:43: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T20:57:43: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T20:57:43: PM2 log: Worker Interval      : 30000
+2021-09-09T20:57:43: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T20:57:43: PM2 log: Concurrent actions   : 2
+2021-09-09T20:57:43: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T20:57:43: PM2 log: ===============================================================================
+2021-09-09T20:57:43: PM2 log: PM2 successfully stopped
+2021-09-09T20:57:57: PM2 log: ===============================================================================
+2021-09-09T20:57:57: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T20:57:57: PM2 log: Time                 : Thu Sep 09 2021 20:57:57 GMT+0700 (GMT+07:00)
+2021-09-09T20:57:57: PM2 log: PM2 version          : 5.1.1
+2021-09-09T20:57:57: PM2 log: Node.js version      : 12.18.3
+2021-09-09T20:57:57: PM2 log: Current arch         : x64
+2021-09-09T20:57:57: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T20:57:57: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T20:57:57: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T20:57:57: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T20:57:57: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T20:57:57: PM2 log: Worker Interval      : 30000
+2021-09-09T20:57:57: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T20:57:57: PM2 log: Concurrent actions   : 2
+2021-09-09T20:57:57: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T20:57:57: PM2 log: ===============================================================================
+2021-09-09T20:57:57: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T20:57:57: PM2 log: App [EGAT-Server:0] online
+2021-09-09T20:57:57: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T20:57:57: PM2 log: App [EGAT-Dashboard:1] starting in -fork mode-
+2021-09-09T20:57:57: PM2 log: App [EGAT-Dashboard:1] online
+2021-09-09T21:00:15: PM2 log: Stopping app:EGAT-Server id:0
+2021-09-09T21:00:15: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T21:00:15: PM2 log: Stopping app:EGAT-Dashboard id:1
+2021-09-09T21:00:15: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T21:00:15: PM2 log: App [EGAT-Dashboard:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:00:15: PM2 log: pid=5908 msg=process killed
+2021-09-09T21:00:15: PM2 log: pid=5948 msg=process killed
+2021-09-09T21:00:15: PM2 log: PM2 successfully stopped
+2021-09-09T21:08:43: PM2 log: ===============================================================================
+2021-09-09T21:08:43: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T21:08:43: PM2 log: Time                 : Thu Sep 09 2021 21:08:43 GMT+0700 (GMT+07:00)
+2021-09-09T21:08:43: PM2 log: PM2 version          : 5.1.1
+2021-09-09T21:08:43: PM2 log: Node.js version      : 12.18.3
+2021-09-09T21:08:43: PM2 log: Current arch         : x64
+2021-09-09T21:08:43: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T21:08:43: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T21:08:43: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T21:08:43: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T21:08:43: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T21:08:43: PM2 log: Worker Interval      : 30000
+2021-09-09T21:08:43: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T21:08:43: PM2 log: Concurrent actions   : 2
+2021-09-09T21:08:43: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T21:08:43: PM2 log: ===============================================================================
+2021-09-09T21:08:44: PM2 log: PM2 successfully stopped
+2021-09-09T21:08:57: PM2 log: ===============================================================================
+2021-09-09T21:08:57: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T21:08:57: PM2 log: Time                 : Thu Sep 09 2021 21:08:57 GMT+0700 (GMT+07:00)
+2021-09-09T21:08:57: PM2 log: PM2 version          : 5.1.1
+2021-09-09T21:08:57: PM2 log: Node.js version      : 12.18.3
+2021-09-09T21:08:57: PM2 log: Current arch         : x64
+2021-09-09T21:08:57: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T21:08:57: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T21:08:57: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T21:08:57: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T21:08:57: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T21:08:57: PM2 log: Worker Interval      : 30000
+2021-09-09T21:08:57: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T21:08:57: PM2 log: Concurrent actions   : 2
+2021-09-09T21:08:57: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T21:08:57: PM2 log: ===============================================================================
+2021-09-09T21:08:57: PM2 log: [Watch] Start watching EGAT-Dashboard
+2021-09-09T21:08:57: PM2 log: App [EGAT-Dashboard:0] starting in -fork mode-
+2021-09-09T21:08:57: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:08:57: PM2 log: App [EGAT-Dashboard:0] online
+2021-09-09T21:08:57: PM2 log: App [app:1] online
+2021-09-09T21:08:59: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:08:59: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:08:59: PM2 log: App [app:1] online
+2021-09-09T21:09:01: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:01: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:01: PM2 log: App [app:1] online
+2021-09-09T21:09:02: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:02: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:02: PM2 log: App [app:1] online
+2021-09-09T21:09:04: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:04: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:04: PM2 log: App [app:1] online
+2021-09-09T21:09:06: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:06: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:06: PM2 log: App [app:1] online
+2021-09-09T21:09:07: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:07: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:07: PM2 log: App [app:1] online
+2021-09-09T21:09:09: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:09: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:09: PM2 log: App [app:1] online
+2021-09-09T21:09:10: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:10: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:10: PM2 log: App [app:1] online
+2021-09-09T21:09:12: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:12: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:12: PM2 log: App [app:1] online
+2021-09-09T21:09:13: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:14: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:14: PM2 log: App [app:1] online
+2021-09-09T21:09:15: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:15: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:15: PM2 log: App [app:1] online
+2021-09-09T21:09:16: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:16: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:17: PM2 log: App [app:1] online
+2021-09-09T21:09:18: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:18: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:18: PM2 log: App [app:1] online
+2021-09-09T21:09:19: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:19: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:19: PM2 log: App [app:1] online
+2021-09-09T21:09:21: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:21: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:21: PM2 log: App [app:1] online
+2021-09-09T21:09:22: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:22: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:22: PM2 log: App [app:1] online
+2021-09-09T21:09:24: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:24: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:24: PM2 log: App [app:1] online
+2021-09-09T21:09:26: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:26: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:26: PM2 log: App [app:1] online
+2021-09-09T21:09:27: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:27: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:27: PM2 log: App [app:1] online
+2021-09-09T21:09:29: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:29: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:29: PM2 log: App [app:1] online
+2021-09-09T21:09:30: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:30: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:30: PM2 log: App [app:1] online
+2021-09-09T21:09:32: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:32: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:32: PM2 log: App [app:1] online
+2021-09-09T21:09:33: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:33: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:33: PM2 log: App [app:1] online
+2021-09-09T21:09:35: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:35: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:35: PM2 log: App [app:1] online
+2021-09-09T21:09:36: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:36: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:36: PM2 log: App [app:1] online
+2021-09-09T21:09:38: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:38: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:38: PM2 log: App [app:1] online
+2021-09-09T21:09:39: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:39: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:39: PM2 log: App [app:1] online
+2021-09-09T21:09:41: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:41: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:41: PM2 log: App [app:1] online
+2021-09-09T21:09:43: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:43: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:43: PM2 log: App [app:1] online
+2021-09-09T21:09:44: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:44: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:44: PM2 log: App [app:1] online
+2021-09-09T21:09:46: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:46: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:46: PM2 log: App [app:1] online
+2021-09-09T21:09:47: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:47: PM2 log: App [app:1] starting in -fork mode-
+2021-09-09T21:09:47: PM2 log: App [app:1] online
+2021-09-09T21:09:49: PM2 log: App [app:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:49: PM2 log: [Watch] Stop watching EGAT-Dashboard
+2021-09-09T21:09:49: PM2 log: Stopping app:EGAT-Dashboard id:0
+2021-09-09T21:09:49: PM2 log: App [EGAT-Dashboard:0] exited with code [1] via signal [SIGINT]
+2021-09-09T21:09:49: PM2 log: pid=6348 msg=process killed
+2021-09-09T21:09:49: PM2 log: PM2 successfully stopped
+2021-09-09T21:10:50: PM2 log: ===============================================================================
+2021-09-09T21:10:50: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T21:10:50: PM2 log: Time                 : Thu Sep 09 2021 21:10:50 GMT+0700 (GMT+07:00)
+2021-09-09T21:10:50: PM2 log: PM2 version          : 5.1.1
+2021-09-09T21:10:50: PM2 log: Node.js version      : 12.18.3
+2021-09-09T21:10:50: PM2 log: Current arch         : x64
+2021-09-09T21:10:50: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T21:10:50: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T21:10:50: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T21:10:50: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T21:10:50: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T21:10:50: PM2 log: Worker Interval      : 30000
+2021-09-09T21:10:50: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T21:10:50: PM2 log: Concurrent actions   : 2
+2021-09-09T21:10:50: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T21:10:50: PM2 log: ===============================================================================
+2021-09-09T21:10:50: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T21:10:50: PM2 log: App [EGAT-Server:0] online
+2021-09-09T21:10:52: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T21:10:52: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T21:10:52: PM2 log: App [EGAT-Server:0] online
+2021-09-09T21:10:53: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T21:10:53: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T21:10:53: PM2 log: App [EGAT-Server:0] online
+2021-09-09T21:10:55: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T21:10:55: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T21:10:55: PM2 log: App [EGAT-Server:0] online
+2021-09-09T21:10:56: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T21:10:56: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T21:10:56: PM2 log: App [EGAT-Server:0] online
+2021-09-09T21:10:58: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T21:10:58: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T21:10:58: PM2 log: App [EGAT-Server:0] online
+2021-09-09T21:10:59: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T21:10:59: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T21:10:59: PM2 log: App [EGAT-Server:0] online
+2021-09-09T21:11:01: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T21:11:01: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T21:11:01: PM2 log: App [EGAT-Server:0] online
+2021-09-09T21:35:16: PM2 log: ===============================================================================
+2021-09-09T21:35:16: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T21:35:16: PM2 log: Time                 : Thu Sep 09 2021 21:35:16 GMT+0700 (GMT+07:00)
+2021-09-09T21:35:16: PM2 log: PM2 version          : 5.1.1
+2021-09-09T21:35:16: PM2 log: Node.js version      : 12.18.3
+2021-09-09T21:35:16: PM2 log: Current arch         : x64
+2021-09-09T21:35:16: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T21:35:16: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T21:35:16: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T21:35:16: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T21:35:16: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T21:35:16: PM2 log: Worker Interval      : 30000
+2021-09-09T21:35:16: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T21:35:16: PM2 log: Concurrent actions   : 2
+2021-09-09T21:35:16: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T21:35:16: PM2 log: ===============================================================================
+2021-09-09T21:35:24: PM2 log: App [app:0] starting in -fork mode-
+2021-09-09T21:35:24: PM2 log: App [app:0] online
+2021-09-09T21:46:34: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:34: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:35: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:35: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:35: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:37: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:37: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:37: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:38: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:38: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:38: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:40: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:40: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:40: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:41: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:41: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:41: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:43: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:43: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:43: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:44: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:44: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:44: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:46: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:46: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:46: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:47: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:47: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:47: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:49: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:49: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:49: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:50: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:50: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:50: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:52: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:52: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:52: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:53: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:53: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:53: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:55: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:55: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:55: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:56: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:56: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:56: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:58: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:58: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:58: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:46:59: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:46:59: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:46:59: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:47:01: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:47:01: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:47:01: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:47:02: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:47:02: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:47:02: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:47:04: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:47:04: PM2 log: App [EGAT-Server:1] starting in -fork mode-
+2021-09-09T21:47:04: PM2 log: App [EGAT-Server:1] online
+2021-09-09T21:47:04: PM2 log: Stopping app:app id:0
+2021-09-09T21:47:04: PM2 log: Stopping app:EGAT-Server id:1
+2021-09-09T21:47:05: PM2 log: App [EGAT-Server:1] exited with code [1] via signal [SIGINT]
+2021-09-09T21:47:05: PM2 log: App [app:0] exited with code [1] via signal [SIGINT]
+2021-09-09T21:47:05: PM2 log: pid=5232 msg=process killed
+2021-09-09T21:47:05: PM2 log: pid=16032 msg=process killed
+2021-09-09T21:47:05: PM2 log: PM2 successfully stopped
+2021-09-09T21:47:38: PM2 log: ===============================================================================
+2021-09-09T21:47:38: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T21:47:38: PM2 log: Time                 : Thu Sep 09 2021 21:47:38 GMT+0700 (GMT+07:00)
+2021-09-09T21:47:38: PM2 log: PM2 version          : 5.1.1
+2021-09-09T21:47:38: PM2 log: Node.js version      : 12.18.3
+2021-09-09T21:47:38: PM2 log: Current arch         : x64
+2021-09-09T21:47:38: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T21:47:38: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T21:47:38: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T21:47:38: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T21:47:38: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T21:47:38: PM2 log: Worker Interval      : 30000
+2021-09-09T21:47:38: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T21:47:38: PM2 log: Concurrent actions   : 2
+2021-09-09T21:47:38: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T21:47:38: PM2 log: ===============================================================================
+2021-09-09T21:47:38: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T21:47:38: PM2 log: App [EGAT-Server:0] online
+2021-09-09T21:50:43: PM2 log: Stopping app:EGAT-Server id:0
+2021-09-09T21:50:43: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T21:50:44: PM2 log: pid=6264 msg=process killed
+2021-09-09T21:50:44: PM2 log: PM2 successfully stopped
+2021-09-09T22:00:53: PM2 log: ===============================================================================
+2021-09-09T22:00:53: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T22:00:53: PM2 log: Time                 : Thu Sep 09 2021 22:00:53 GMT+0700 (GMT+07:00)
+2021-09-09T22:00:53: PM2 log: PM2 version          : 5.1.1
+2021-09-09T22:00:53: PM2 log: Node.js version      : 12.18.3
+2021-09-09T22:00:53: PM2 log: Current arch         : x64
+2021-09-09T22:00:53: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T22:00:53: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T22:00:53: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T22:00:53: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T22:00:53: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T22:00:53: PM2 log: Worker Interval      : 30000
+2021-09-09T22:00:53: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T22:00:53: PM2 log: Concurrent actions   : 2
+2021-09-09T22:00:53: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T22:00:53: PM2 log: ===============================================================================
+2021-09-09T22:05:17: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T22:05:17: PM2 log: App [EGAT-Server:0] online
+2021-09-09T22:19:41: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:41: PM2 log: App [npm:1] online
+2021-09-09T22:19:41: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:42: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:42: PM2 log: App [npm:1] online
+2021-09-09T22:19:42: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:42: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:42: PM2 log: App [npm:1] online
+2021-09-09T22:19:42: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:42: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:42: PM2 log: App [npm:1] online
+2021-09-09T22:19:43: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:43: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:43: PM2 log: App [npm:1] online
+2021-09-09T22:19:43: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:43: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:43: PM2 log: App [npm:1] online
+2021-09-09T22:19:43: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:43: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:43: PM2 log: App [npm:1] online
+2021-09-09T22:19:44: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:44: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:44: PM2 log: App [npm:1] online
+2021-09-09T22:19:44: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:44: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:44: PM2 log: App [npm:1] online
+2021-09-09T22:19:44: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:44: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:44: PM2 log: App [npm:1] online
+2021-09-09T22:19:45: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:45: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:45: PM2 log: App [npm:1] online
+2021-09-09T22:19:45: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:45: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:45: PM2 log: App [npm:1] online
+2021-09-09T22:19:45: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:45: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:45: PM2 log: App [npm:1] online
+2021-09-09T22:19:46: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:46: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:46: PM2 log: App [npm:1] online
+2021-09-09T22:19:46: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:46: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:46: PM2 log: App [npm:1] online
+2021-09-09T22:19:46: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:46: PM2 log: App [npm:1] starting in -fork mode-
+2021-09-09T22:19:46: PM2 log: App [npm:1] online
+2021-09-09T22:19:47: PM2 log: App [npm:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:19:47: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2021-09-09T22:20:19: PM2 log: Stopping app:npm id:1
+2021-09-09T22:20:19: PM2 error: app=npm id=1 does not have a pid
+2021-09-09T22:25:28: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:28: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:29: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:29: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:29: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:29: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:29: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:29: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:29: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:29: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:29: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:30: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:30: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:30: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:30: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:30: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:30: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:30: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:30: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:30: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:31: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:31: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:31: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:31: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:31: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:31: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:31: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:31: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:31: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:32: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:32: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:32: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:32: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:32: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:32: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:32: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:32: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:32: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:33: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:33: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:33: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:33: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:33: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:33: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:33: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:34: PM2 log: App [EGAT-Dashboard:2] starting in -fork mode-
+2021-09-09T22:25:34: PM2 log: App [EGAT-Dashboard:2] online
+2021-09-09T22:25:34: PM2 log: App [EGAT-Dashboard:2] exited with code [1] via signal [SIGINT]
+2021-09-09T22:25:34: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2021-09-09T22:26:13: PM2 log: Stopping app:EGAT-Dashboard id:2
+2021-09-09T22:26:13: PM2 error: app=EGAT-Dashboard id=2 does not have a pid
+2021-09-09T22:26:15: PM2 error: 2 : id unknown
+2021-09-09T22:26:15: PM2 error: Trace: Error: 2 : id unknown
+    at Object.God.logAndGenerateError (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\lib\God\Methods.js:39:12)
+    at Object.God.stopProcessId (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\lib\God\ActionMethods.js:289:21)
+    at God.deleteProcessId (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\lib\God\ActionMethods.js:366:9)
+    at Server.onmessage (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\pm2-axon-rpc\lib\server.js:104:6)
+    at RepSocket.emit (events.js:315:20)
+    at RepSocket.EventEmitter.emit (domain.js:483:12)
+    at Parser.<anonymous> (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\pm2-axon\lib\sockets\rep.js:51:15)
+    at Parser.emit (events.js:315:20)
+    at Parser.EventEmitter.emit (domain.js:506:15)
+    at Parser._write (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\amp\lib\stream.js:91:16)
+    at Object.God.logAndGenerateError (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\lib\God\Methods.js:34:15)
+    at C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\lib\God\ActionMethods.js:367:30
+    at Object.God.stopProcessId (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\lib\God\ActionMethods.js:289:14)
+    at God.deleteProcessId (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\lib\God\ActionMethods.js:366:9)
+    at Server.onmessage (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\pm2-axon-rpc\lib\server.js:104:6)
+    at RepSocket.emit (events.js:315:20)
+    at RepSocket.EventEmitter.emit (domain.js:483:12)
+    at Parser.<anonymous> (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\pm2-axon\lib\sockets\rep.js:51:15)
+    at Parser.emit (events.js:315:20)
+    at Parser.EventEmitter.emit (domain.js:506:15)
+2021-09-09T22:28:19: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:19: PM2 log: App [npm:3] online
+2021-09-09T22:28:19: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:19: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:19: PM2 log: App [npm:3] online
+2021-09-09T22:28:19: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:19: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:19: PM2 log: App [npm:3] online
+2021-09-09T22:28:20: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:20: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:20: PM2 log: App [npm:3] online
+2021-09-09T22:28:20: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:20: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:20: PM2 log: App [npm:3] online
+2021-09-09T22:28:20: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:20: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:20: PM2 log: App [npm:3] online
+2021-09-09T22:28:21: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:21: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:21: PM2 log: App [npm:3] online
+2021-09-09T22:28:21: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:21: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:21: PM2 log: App [npm:3] online
+2021-09-09T22:28:21: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:21: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:21: PM2 log: App [npm:3] online
+2021-09-09T22:28:22: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:22: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:22: PM2 log: App [npm:3] online
+2021-09-09T22:28:22: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:22: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:22: PM2 log: App [npm:3] online
+2021-09-09T22:28:22: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:22: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:22: PM2 log: App [npm:3] online
+2021-09-09T22:28:23: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:23: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:23: PM2 log: App [npm:3] online
+2021-09-09T22:28:23: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:23: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:23: PM2 log: App [npm:3] online
+2021-09-09T22:28:23: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:23: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:23: PM2 log: App [npm:3] online
+2021-09-09T22:28:24: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:24: PM2 log: App [npm:3] starting in -fork mode-
+2021-09-09T22:28:24: PM2 log: App [npm:3] online
+2021-09-09T22:28:24: PM2 log: App [npm:3] exited with code [1] via signal [SIGINT]
+2021-09-09T22:28:24: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2021-09-09T22:28:53: PM2 log: Stopping app:npm id:3
+2021-09-09T22:28:53: PM2 error: app=npm id=3 does not have a pid
+2021-09-09T22:29:15: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:16: PM2 log: App [npm:4] online
+2021-09-09T22:29:16: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:16: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:16: PM2 log: App [npm:4] online
+2021-09-09T22:29:16: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:16: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:16: PM2 log: App [npm:4] online
+2021-09-09T22:29:17: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:17: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:17: PM2 log: App [npm:4] online
+2021-09-09T22:29:17: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:17: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:17: PM2 log: App [npm:4] online
+2021-09-09T22:29:17: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:17: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:17: PM2 log: App [npm:4] online
+2021-09-09T22:29:18: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:18: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:18: PM2 log: App [npm:4] online
+2021-09-09T22:29:18: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:18: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:18: PM2 log: App [npm:4] online
+2021-09-09T22:29:18: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:18: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:18: PM2 log: App [npm:4] online
+2021-09-09T22:29:19: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:19: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:19: PM2 log: App [npm:4] online
+2021-09-09T22:29:19: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:19: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:19: PM2 log: App [npm:4] online
+2021-09-09T22:29:19: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:19: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:19: PM2 log: App [npm:4] online
+2021-09-09T22:29:20: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:20: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:20: PM2 log: App [npm:4] online
+2021-09-09T22:29:20: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:20: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:20: PM2 log: App [npm:4] online
+2021-09-09T22:29:20: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:20: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:20: PM2 log: App [npm:4] online
+2021-09-09T22:29:21: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:21: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:21: PM2 log: App [npm:4] online
+2021-09-09T22:29:21: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:21: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2021-09-09T22:29:46: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:46: PM2 log: App [npm:4] online
+2021-09-09T22:29:47: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:47: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:47: PM2 log: App [npm:4] online
+2021-09-09T22:29:47: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:47: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:47: PM2 log: App [npm:4] online
+2021-09-09T22:29:47: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:47: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:47: PM2 log: App [npm:4] online
+2021-09-09T22:29:48: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:48: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:48: PM2 log: App [npm:4] online
+2021-09-09T22:29:48: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:48: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:48: PM2 log: App [npm:4] online
+2021-09-09T22:29:48: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:48: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:48: PM2 log: App [npm:4] online
+2021-09-09T22:29:49: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:49: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:49: PM2 log: App [npm:4] online
+2021-09-09T22:29:49: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:49: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:49: PM2 log: App [npm:4] online
+2021-09-09T22:29:49: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:49: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:49: PM2 log: App [npm:4] online
+2021-09-09T22:29:50: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:50: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:50: PM2 log: App [npm:4] online
+2021-09-09T22:29:50: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:50: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:50: PM2 log: App [npm:4] online
+2021-09-09T22:29:50: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:50: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:50: PM2 log: App [npm:4] online
+2021-09-09T22:29:51: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:51: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:51: PM2 log: App [npm:4] online
+2021-09-09T22:29:51: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:51: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:51: PM2 log: App [npm:4] online
+2021-09-09T22:29:51: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:51: PM2 log: App [npm:4] starting in -fork mode-
+2021-09-09T22:29:51: PM2 log: App [npm:4] online
+2021-09-09T22:29:52: PM2 log: App [npm:4] exited with code [1] via signal [SIGINT]
+2021-09-09T22:29:52: PM2 log: Script C:\PROGRAM FILES\NODEJS\NPM.CMD had too many unstable restarts (16). Stopped. "errored"
+2021-09-09T22:30:11: PM2 log: Stopping app:npm id:4
+2021-09-09T22:30:11: PM2 error: app=npm id=4 does not have a pid
+2021-09-09T22:37:36: PM2 log: App [ecosystem:5] starting in -fork mode-
+2021-09-09T22:37:36: PM2 log: App [ecosystem:5] online
+2021-09-09T22:42:24: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:42:24: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:42:27: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:42:27: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:42:27: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:42:31: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:42:31: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:42:31: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:42:34: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:42:34: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:42:34: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:42:37: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:42:37: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:42:37: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:42:41: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:42:41: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:42:41: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:42:44: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:42:44: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:42:44: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:42:47: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:42:47: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:42:47: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:42:51: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:42:51: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:42:51: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:42:54: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:42:54: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:42:54: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:42:57: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:42:58: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:42:58: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:01: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:43:01: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:43:01: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:04: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:43:04: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:43:04: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:08: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:43:08: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:43:08: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:11: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:43:11: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:43:11: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:14: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:43:14: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:43:14: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:18: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:43:18: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:43:18: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:21: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:43:21: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:43:21: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:24: PM2 log: Stopping app:ecosystem id:5
+2021-09-09T22:43:24: PM2 log: App [ecosystem:5] exited with code [1] via signal [SIGINT]
+2021-09-09T22:43:24: PM2 log: pid=6524 msg=process killed
+2021-09-09T22:43:24: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:43:24: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:43:24: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:27: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:43:28: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:43:28: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:31: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:43:31: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:43:31: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:34: PM2 log: App [EGAT-Dashboard:6] exited with code [0] via signal [SIGINT]
+2021-09-09T22:43:34: PM2 log: App [EGAT-Dashboard:6] starting in -fork mode-
+2021-09-09T22:43:34: PM2 log: App [EGAT-Dashboard:6] online
+2021-09-09T22:43:35: PM2 log: Stopping app:EGAT-Dashboard id:6
+2021-09-09T22:43:35: PM2 log: App [EGAT-Dashboard:6] exited with code [1] via signal [SIGINT]
+2021-09-09T22:43:36: PM2 log: pid=12016 msg=process killed
+2021-09-09T22:46:01: PM2 log: Stopping app:EGAT-Server id:0
+2021-09-09T22:46:01: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T22:46:02: PM2 log: pid=13328 msg=process killed
+2021-09-09T22:46:02: PM2 log: PM2 successfully stopped
+2021-09-09T22:47:46: PM2 log: ===============================================================================
+2021-09-09T22:47:46: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T22:47:46: PM2 log: Time                 : Thu Sep 09 2021 22:47:46 GMT+0700 (GMT+07:00)
+2021-09-09T22:47:46: PM2 log: PM2 version          : 5.1.1
+2021-09-09T22:47:46: PM2 log: Node.js version      : 12.18.3
+2021-09-09T22:47:46: PM2 log: Current arch         : x64
+2021-09-09T22:47:46: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T22:47:46: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T22:47:46: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T22:47:46: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T22:47:46: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T22:47:46: PM2 log: Worker Interval      : 30000
+2021-09-09T22:47:46: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T22:47:46: PM2 log: Concurrent actions   : 2
+2021-09-09T22:47:46: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T22:47:46: PM2 log: ===============================================================================
+2021-09-09T22:48:10: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T22:48:10: PM2 log: App [EGAT-Server:0] online
+2021-09-09T22:48:56: PM2 log: Stopping app:EGAT-Server id:0
+2021-09-09T22:48:57: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T22:48:57: PM2 log: pid=14132 msg=process killed
+2021-09-09T22:51:02: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T22:51:02: PM2 log: App [EGAT-Server:0] online
+2021-09-09T22:51:34: PM2 log: Stopping app:EGAT-Server id:0
+2021-09-09T22:51:34: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T22:51:34: PM2 log: pid=8388 msg=process killed
+2021-09-09T22:51:34: PM2 log: PM2 successfully stopped
+2021-09-09T22:51:54: PM2 log: ===============================================================================
+2021-09-09T22:51:54: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T22:51:54: PM2 log: Time                 : Thu Sep 09 2021 22:51:54 GMT+0700 (GMT+07:00)
+2021-09-09T22:51:54: PM2 log: PM2 version          : 5.1.1
+2021-09-09T22:51:54: PM2 log: Node.js version      : 12.18.3
+2021-09-09T22:51:54: PM2 log: Current arch         : x64
+2021-09-09T22:51:54: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T22:51:54: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T22:51:54: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T22:51:54: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T22:51:54: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T22:51:54: PM2 log: Worker Interval      : 30000
+2021-09-09T22:51:54: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T22:51:54: PM2 log: Concurrent actions   : 2
+2021-09-09T22:51:54: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T22:51:54: PM2 log: ===============================================================================
+2021-09-09T22:51:54: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T22:51:54: PM2 log: App [EGAT-Server:0] online
+2021-09-09T22:52:28: PM2 log: Stopping app:EGAT-Server id:0
+2021-09-09T22:52:28: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T22:52:28: PM2 log: pid=8852 msg=process killed
+2021-09-09T22:52:28: PM2 log: PM2 successfully stopped
+2021-09-09T22:52:37: PM2 log: ===============================================================================
+2021-09-09T22:52:37: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2021-09-09T22:52:37: PM2 log: Time                 : Thu Sep 09 2021 22:52:37 GMT+0700 (GMT+07:00)
+2021-09-09T22:52:37: PM2 log: PM2 version          : 5.1.1
+2021-09-09T22:52:37: PM2 log: Node.js version      : 12.18.3
+2021-09-09T22:52:37: PM2 log: Current arch         : x64
+2021-09-09T22:52:37: PM2 log: PM2 home             : C:\etc\.pm2
+2021-09-09T22:52:37: PM2 log: PM2 PID file         : C:\etc\.pm2\pm2.pid
+2021-09-09T22:52:37: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2021-09-09T22:52:37: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2021-09-09T22:52:37: PM2 log: Application log path : C:\etc\.pm2\logs
+2021-09-09T22:52:37: PM2 log: Worker Interval      : 30000
+2021-09-09T22:52:37: PM2 log: Process dump file    : C:\etc\.pm2\dump.pm2
+2021-09-09T22:52:37: PM2 log: Concurrent actions   : 2
+2021-09-09T22:52:37: PM2 log: SIGTERM timeout      : 1600
+2021-09-09T22:52:37: PM2 log: ===============================================================================
+2021-09-09T22:52:37: PM2 log: App [EGAT-Server:0] starting in -fork mode-
+2021-09-09T22:52:37: PM2 log: App [EGAT-Server:0] online
+2021-09-09T22:52:37: PM2 log: App [EGAT-Dashboard:1] starting in -fork mode-
+2021-09-09T22:52:37: PM2 log: App [EGAT-Dashboard:1] online
+2021-09-09T22:55:22: PM2 log: Stopping app:EGAT-Server id:0
+2021-09-09T22:55:22: PM2 log: Stopping app:EGAT-Dashboard id:1
+2021-09-09T22:55:22: PM2 log: App [EGAT-Server:0] exited with code [1] via signal [SIGINT]
+2021-09-09T22:55:22: PM2 log: App [EGAT-Dashboard:1] exited with code [1] via signal [SIGINT]
+2021-09-09T22:55:22: PM2 log: pid=1656 msg=process killed
+2021-09-09T22:55:22: PM2 log: pid=14984 msg=process killed
+2021-09-09T22:55:22: PM2 log: PM2 successfully stopped
