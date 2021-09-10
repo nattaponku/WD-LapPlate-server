@@ -1,0 +1,36 @@
+2021-09-10T15:08:43: PM2 error: Trace: Error: spawn EROFS
+    at ChildProcess.spawn (internal/child_process.js:407:11)
+    at spawn (child_process.js:548:9)
+    at C:\ProgramData\npm\npm\node_modules\pm2\lib\God\ForkMode.js:118:20
+    at wrapper (C:\ProgramData\npm\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\ProgramData\npm\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\ProgramData\npm\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\ProgramData\npm\npm\node_modules\pm2\lib\Utility.js:186:13)
+    at WriteStream.emit (events.js:315:20)
+    at WriteStream.EventEmitter.emit (domain.js:483:12)
+    at internal/fs/streams.js:366:10 {
+  errno: 'EROFS',
+  code: 'EROFS',
+  syscall: 'spawn'
+}
+    at Object.God.logAndGenerateError (C:\ProgramData\npm\npm\node_modules\pm2\lib\God\Methods.js:34:15)
+    at C:\ProgramData\npm\npm\node_modules\pm2\lib\God\ForkMode.js:120:13
+    at wrapper (C:\ProgramData\npm\npm\node_modules\pm2\node_modules\async\internal\once.js:12:16)
+    at next (C:\ProgramData\npm\npm\node_modules\pm2\node_modules\async\waterfall.js:96:20)
+    at C:\ProgramData\npm\npm\node_modules\pm2\node_modules\async\internal\onlyOnce.js:12:16
+    at WriteStream.<anonymous> (C:\ProgramData\npm\npm\node_modules\pm2\lib\Utility.js:186:13)
+    at WriteStream.emit (events.js:315:20)
+    at WriteStream.EventEmitter.emit (domain.js:483:12)
+    at internal/fs/streams.js:366:10
+    at FSReqCallback.oncomplete (fs.js:156:23)
+2021-09-10T15:21:37: PM2 error: app=EGAT-Dashboard id=1 does not have a pid
+2021-09-10T15:24:32: PM2 error: app=EGAT-Dashboard id=1 does not have a pid
+2021-09-10T15:37:49: PM2 error: app=EGAT-Dashboard id=1 does not have a pid
+2021-09-10T15:46:26: PM2 error: Error caught while calling pidusage
+2021-09-10T15:46:26: PM2 error: Error: ERROR:
+Description = A system shutdown is in progress.
+
+2021-09-10T15:46:26: PM2 error: Error caught while calling pidusage
+2021-09-10T15:46:26: PM2 error: Error: ERROR:
+Description = A system shutdown is in progress.
+

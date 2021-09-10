@@ -1,0 +1,14 @@
+{
+    "@jessety/pm2-logrotate": {
+        "compress": false,
+        "dateFormat": "YYYY-MM-DD_HH-mm-ss",
+        "max_size": "10M",
+        "retain": "30",
+        "rotateInterval": "0 0 * * *",
+        "rotateModule": true,
+        "workerInterval": "30"
+    },
+    "module-db-v2": {
+        "@jessety/pm2-logrotate": {}
+    }
+}

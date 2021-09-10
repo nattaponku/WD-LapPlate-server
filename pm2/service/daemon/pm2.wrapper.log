@@ -1,0 +1,239 @@
+2021-09-10 14:43:44 - Failed to log event in Windows Event Log: Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true; Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message)
+   at winsw.WrapperService.LogEvent(String message)
+2021-09-10 14:43:44 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true
+2021-09-10 14:43:44 - Started 8768
+2021-09-10 14:43:49 - Failed to log event in Windows Event Log. Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type)
+   at winsw.WrapperService.LogEvent(String message, EventLogEntryType type)
+2021-09-10 14:52:10 - Failed to log event in Windows Event Log: Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true; Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message)
+   at winsw.WrapperService.LogEvent(String message)
+2021-09-10 14:52:10 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true
+2021-09-10 14:52:10 - Started 8076
+2021-09-10 14:52:14 - Failed to log event in Windows Event Log. Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type)
+   at winsw.WrapperService.LogEvent(String message, EventLogEntryType type)
+2021-09-10 14:53:18 - Failed to log event in Windows Event Log: Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true; Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message)
+   at winsw.WrapperService.LogEvent(String message)
+2021-09-10 14:53:18 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true
+2021-09-10 14:53:18 - Started 6420
+2021-09-10 14:53:22 - Failed to log event in Windows Event Log. Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type)
+   at winsw.WrapperService.LogEvent(String message, EventLogEntryType type)
+2021-09-10 14:58:45 - Failed to log event in Windows Event Log: Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true; Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message)
+   at winsw.WrapperService.LogEvent(String message)
+2021-09-10 14:58:45 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true
+2021-09-10 14:58:45 - Started 6108
+2021-09-10 15:05:47 - Failed to log event in Windows Event Log: Stopping pm2.exe; Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message)
+   at winsw.WrapperService.LogEvent(String message)
+2021-09-10 15:05:47 - Stopping pm2.exe
+2021-09-10 15:05:47 - ProcessKill 6108
+2021-09-10 15:05:47 - Found child process: 4976 Name: conhost.exe
+2021-09-10 15:05:47 - Found child process: 6780 Name: node.exe
+2021-09-10 15:05:47 - Stopping process 6108
+2021-09-10 15:05:47 - Send SIGINT 6108
+2021-09-10 15:06:17 - SIGINT to 6108 failed - Killing as fallback
+2021-09-10 15:06:17 - Failed to log event in Windows Event Log. Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type)
+   at winsw.WrapperService.LogEvent(String message, EventLogEntryType type)
+2021-09-10 15:06:17 - Stopping process 4976
+2021-09-10 15:06:17 - Send SIGINT 4976
+2021-09-10 15:06:17 - SIGINT to 4976 failed - Killing as fallback
+2021-09-10 15:06:17 - Found child process: 7892 Name: node.exe
+2021-09-10 15:06:17 - Found child process: 8256 Name: node.exe
+2021-09-10 15:06:17 - Found child process: 15788 Name: node.exe
+2021-09-10 15:06:17 - Stopping process 6780
+2021-09-10 15:06:17 - Send SIGINT 6780
+2021-09-10 15:06:17 - SIGINT to 6780 failed - Killing as fallback
+2021-09-10 15:06:18 - Stopping process 7892
+2021-09-10 15:06:18 - Send SIGINT 7892
+2021-09-10 15:06:18 - SIGINT to 7892 failed - Killing as fallback
+2021-09-10 15:06:18 - Stopping process 8256
+2021-09-10 15:06:18 - Send SIGINT 8256
+2021-09-10 15:06:18 - SIGINT to 8256 failed - Killing as fallback
+2021-09-10 15:06:18 - Stopping process 15788
+2021-09-10 15:06:18 - Process 15788 is already stopped
+2021-09-10 15:06:18 - Finished pm2.exe
+2021-09-10 15:06:22 - Failed to log event in Windows Event Log: Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true; Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message)
+   at winsw.WrapperService.LogEvent(String message)
+2021-09-10 15:06:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true
+2021-09-10 15:06:22 - Started 15956
+2021-09-10 15:08:37 - Stopping pm2.exe
+2021-09-10 15:08:37 - ProcessKill 15956
+2021-09-10 15:08:37 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-09-10 15:12:14 - Failed to log event in Windows Event Log: Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true; Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message)
+   at winsw.WrapperService.LogEvent(String message)
+2021-09-10 15:12:14 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true
+2021-09-10 15:12:14 - Started 6076
+2021-09-10 15:46:24 - Stopping pm2.exe
+2021-09-10 15:46:24 - ProcessKill 6076
+2021-09-10 15:46:24 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-09-10 15:47:22 - Failed to log event in Windows Event Log: Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true; Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message)
+   at winsw.WrapperService.LogEvent(String message)
+2021-09-10 15:47:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true
+2021-09-10 15:47:22 - Started 5324
+2021-09-10 16:01:40 - Failed to log event in Windows Event Log: Stopping pm2.exe; Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message)
+   at winsw.WrapperService.LogEvent(String message)
+2021-09-10 16:01:40 - Stopping pm2.exe
+2021-09-10 16:01:40 - ProcessKill 5324
+2021-09-10 16:01:41 - Found child process: 972 Name: conhost.exe
+2021-09-10 16:01:41 - Found child process: 6864 Name: node.exe
+2021-09-10 16:01:41 - Stopping process 5324
+2021-09-10 16:01:41 - Send SIGINT 5324
+2021-09-10 16:02:11 - SIGINT to 5324 failed - Killing as fallback
+2021-09-10 16:02:11 - Failed to log event in Windows Event Log. Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type)
+   at winsw.WrapperService.LogEvent(String message, EventLogEntryType type)
+2021-09-10 16:02:11 - Stopping process 972
+2021-09-10 16:02:11 - Send SIGINT 972
+2021-09-10 16:02:11 - SIGINT to 972 failed - Killing as fallback
+2021-09-10 16:02:11 - Found child process: 8028 Name: node.exe
+2021-09-10 16:02:11 - Found child process: 9024 Name: node.exe
+2021-09-10 16:02:11 - Found child process: 10776 Name: node.exe
+2021-09-10 16:02:11 - Stopping process 6864
+2021-09-10 16:02:11 - Send SIGINT 6864
+2021-09-10 16:02:11 - SIGINT to 6864 failed - Killing as fallback
+2021-09-10 16:02:11 - Stopping process 8028
+2021-09-10 16:02:11 - Send SIGINT 8028
+2021-09-10 16:02:11 - SIGINT to 8028 failed - Killing as fallback
+2021-09-10 16:02:11 - Stopping process 9024
+2021-09-10 16:02:11 - Send SIGINT 9024
+2021-09-10 16:02:11 - SIGINT to 9024 failed - Killing as fallback
+2021-09-10 16:02:11 - Stopping process 10776
+2021-09-10 16:02:11 - Send SIGINT 10776
+2021-09-10 16:02:11 - SIGINT to 10776 failed - Killing as fallback
+2021-09-10 16:02:11 - Finished pm2.exe
+2021-09-10 16:02:13 - Failed to log event in Windows Event Log: Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true; Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message)
+   at winsw.WrapperService.LogEvent(String message)
+2021-09-10 16:02:13 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true
+2021-09-10 16:02:13 - Started 6180
+2021-09-10 16:02:55 - Stopping pm2.exe
+2021-09-10 16:02:55 - ProcessKill 6180
+2021-09-10 16:02:55 - Shutdown exception
+Message:A system shutdown is in progress.
+
+Stacktrace:   at System.Runtime.InteropServices.Marshal.ThrowExceptionForHRInternal(Int32 errorCode, IntPtr errorInfo)
+   at System.Management.ManagementScope.InitializeGuts(Object o)
+   at System.Management.ManagementScope.Initialize()
+   at System.Management.ManagementObjectSearcher.Initialize()
+   at System.Management.ManagementObjectSearcher.Get()
+   at winsw.WrapperService.GetChildPids(Int32 pid)
+   at winsw.WrapperService.StopProcessAndChildren(Int32 pid)
+   at winsw.WrapperService.StopIt()
+   at winsw.WrapperService.OnShutdown()
+2021-09-10 16:03:53 - Failed to log event in Windows Event Log: Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true; Reason: 
+Message:The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+Stacktrace:   at System.Diagnostics.EventLog.FindSourceRegistration(String source, String machineName, Boolean readOnly)
+   at System.Diagnostics.EventLog.SourceExists(String source, String machineName)
+   at System.Diagnostics.EventLog.VerifyAndCreateSource(String sourceName, String currentMachineName)
+   at System.Diagnostics.EventLog.WriteEntry(String message, EventLogEntryType type, Int32 eventID, Int16 category, Byte[] rawData)
+   at System.Diagnostics.EventLog.WriteEntry(String message)
+   at winsw.WrapperService.LogEvent(String message)
+2021-09-10 16:03:53 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\ProgramData\npm\npm\node_modules\node-windows\lib\wrapper.js --file C:\ProgramData\pm2\service\index.js --scriptoptions= --log "PM2 wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst true
+2021-09-10 16:03:53 - Started 4956

@@ -1,0 +1,1 @@
+[2021-09-10T09:05:31.308Z] Error while serving D:\NodeVue\EGAT-dashboard\dist\img\profile\null with content-type text/plain : ENOENT: no such file or directory, open 'D:\NodeVue\EGAT-dashboard\dist\img\profile\null'
