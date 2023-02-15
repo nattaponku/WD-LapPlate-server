@@ -2,6 +2,7 @@ const UserController = require('./controllers/UserController')
 const UserAuthenController = require('./controllers/UserAuthenController')
 const isAuthenController = require('./authen/isAuthenController')
 const pvController = require('./controllers/pvController')
+const batteryController = require('./controllers/batteryController')
 
 let multer = require("multer")
 // upload section
@@ -126,6 +127,45 @@ module.exports = (app) => {
     // get all pv
     app.get('/pvs',
         pvController.index
+    )
+
+    // battery route
+    // create battery
+    app.post('/battery',
+        batteryController.create
+    )
+    // edit battery, suspend, active
+    app.put('/battery/:batteryId',
+        batteryController.put
+    )
+    // delete battery
+    app.delete('/battery/:batteryId',
+        batteryController.remove
+    )
+    // get battery by date in 'YYYY-M-DD'
+    app.get('/batteryDate/:date',
+        isAuthenController,
+        batteryController.showByDate
+    )
+    // // get battery total by date in 'YYYY-M-DD'
+    // app.get('/pvTotalDate/:date',
+    //     pvController.showTotalByDate
+    // )
+    // // get battery Total by Month in 'M'
+    // app.get('/pvTotalMonth/:month',
+    //     pvController.showTotalByMonth
+    // )
+    // // get battery Total group by SN 
+    // app.get('/pvTotalByAllSN',
+    //     pvController.showTotalByAllSN
+    // )
+    // // get battery Total by Year in 'YYYY'
+    // app.get('/pvTotalYear/:year',
+    //     pvController.showTotalByYear
+    // )
+    // // get all battery
+    app.get('/batteries',
+        batteryController.index
     )
 
     // // upload
